@@ -1,0 +1,1 @@
+I developed a portfolio using HTML5 and CSS3 to display my analytical projects. I then uploaded it on Github and connected it to Google Analytics. I generated a static report to inspect user behavior for a month. Additionally, I designed an interactive dashboard with Looker Studio to exhibit real-time performance metrics of my website.
